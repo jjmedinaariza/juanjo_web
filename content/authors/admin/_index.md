@@ -50,5 +50,5 @@ user_groups:
 - Visitors
 ---
 
-Juanjo Medina is a Professor of Quantitative Criminology and the Head of the [Department of Criminology](https://www.socialsciences.manchester.ac.uk/criminology/) at the University of Manchester where he teaches data analysis and crime mapping skills to criminology students. He is the current President of the [Spanish Society of Criminology](https://criminologia.net/). 
+Juanjo Medina was a Professor of Quantitative Criminology and the Head of the [Department of Criminology](https://www.socialsciences.manchester.ac.uk/criminology/) at the University of Manchester until August 2020 where he taught data analysis and crime mapping skills to criminology students. He was the President of the [Spanish Society of Criminology](https://criminologia.net/) from 2016 to 2020. 
 
