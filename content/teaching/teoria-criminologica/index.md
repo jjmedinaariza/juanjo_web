@@ -9,7 +9,7 @@ links:
   icon_pack: fas
   name: Slides
   url: https://www.dropbox.com/s/k7xp5fkv2get9ss/proyecto_docente_teorias_20_21.pdf?dl=0
-slides: Teoria Criminologica.
+slides: Teorias Criminologicas.
 summary: Guia Docente 2020-2021.
 tags:
 - Crime theory

@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: Digital textbook teaching crime mapping skills to criminology student.
+summary: Digital textbook teaching crime mapping skills to criminology students.
 tags:
 - Deep Learning
 title: Crime mapping using R
