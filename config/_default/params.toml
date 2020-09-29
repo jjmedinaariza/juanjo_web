@@ -81,16 +81,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "juanjo.medina@manchester.ac.uk"
-phone = "+44(0)161 275 4726"
+email = "juanjo.medina@protonmail.com"
+#phone = "+44(0)161 275 4726"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Criminology (University of Manchester), Williamson Building, Oxford Road", city = "Manchester", region = "", postcode = "M13 9PL", country = "United Kingdom", country_code = "UK"}
+address = {street = "Departamento de Derecho Penal y Ciencias Criminales (Universidad de Sevilla), Campus Ramón y Cajal, C/ Enramadilla, 18-20", city = "Sevilla", region = "", postcode = "41018", country = "Spain", country_code = "ESP"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "53.466597", longitude = "-2.232889"}
+coordinates = {latitude = "37.378079", longitude = "-5.978556"}
 
 
 # Directions for visitors to locate you.

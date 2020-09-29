@@ -28,9 +28,9 @@ interests:
 - Environmental crime
 name: Juanjo Medina Ariza
 organizations:
-- name: University of Manchester
-  url: "https://www.research.manchester.ac.uk/portal/juanjo.medina.html"
-role: Professor of Quantitative Criminology
+- name: University of Seville
+  url: "https://www.us.es/centros/departamentos/derecho-penal-y-ciencias-criminales"
+role: Talentia Senior Distinguished Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -50,5 +50,5 @@ user_groups:
 - Visitors
 ---
 
-Juanjo Medina was a Professor of Quantitative Criminology and the Head of the [Department of Criminology](https://www.socialsciences.manchester.ac.uk/criminology/) at the University of Manchester until August 2020 where he taught data analysis and crime mapping skills to criminology students. He was the President of the [Spanish Society of Criminology](https://criminologia.net/) from 2016 to 2020. 
+Juanjo Medina is a Talentia Senior Distinguished Researcher affiliated to the [Deparment of Criminal Law and Crime Sciences](https://www.us.es/centros/departamentos/derecho-penal-y-ciencias-criminales) at the University of Seville. The Talentia Senior Scheme is a program of the Andalusian Government  aimed at attracting and retaining researchers with an excellent scientific and leadership curriculum.. Previously he worked as Professor of Quantitative Criminology and the Head of the [Department of Criminology](https://www.socialsciences.manchester.ac.uk/criminology/) at the University of Manchester until August 2020 where he taught data analysis and crime mapping skills to criminology students. He was the President of the [Spanish Society of Criminology](https://criminologia.net/) from 2016 to 2020. 
 
