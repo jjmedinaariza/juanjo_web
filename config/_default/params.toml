@@ -94,7 +94,7 @@ coordinates = {latitude = "37.378079", longitude = "-5.978556"}
 
 
 # Directions for visitors to locate you.
-directions = "Take lift to 4th floor, turn left when coming out, walk through double doors, and reach office 4.48"
+#directions = "Take lift to 4th floor, turn left when coming out, walk through double doors, and reach office 4.48"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
