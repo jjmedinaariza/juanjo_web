@@ -7,10 +7,14 @@ image:
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: Slides
+  name: Proyecto
   url: https://www.dropbox.com/s/qpm8orwoabikgcl/proyecto_docente_instituciones_20_21.pdf?dl=0
+- icon: file-pdf
+  icon_pack: fas
+  name: Prueba
+  url: https://www.dropbox.com/s/k98qjo8c862sris/PRUEBA%20DE%20COMPRENSION%20Y%20REFLEXION%20PERSONAL%201.pdf?dl=0
 slides: Instituciones del Sistema de Control Penal.
-summary: Guia Docente 2020-2021.
+summary: Materiales 2020-2021.
 tags:
 - Criminal Justice
 title: Instituciones de Control Penal
@@ -20,7 +24,7 @@ url_slides: "https://www.dropbox.com/s/qpm8orwoabikgcl/proyecto_docente_instituc
 url_video: ""
 ---
 
-Here you can find the syllabus for Crime Control Institutions. 
+Here you can find the syllabus and materials for Crime Control Institutions. 
 
-Aqui se puede encontrar el proyecto docente para Instituciones del Control Penal.
+Aqui se puede encontrar el proyecto docente y otros materiales para Instituciones del Control Penal.
 
