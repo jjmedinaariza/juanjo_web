@@ -7,8 +7,12 @@ image:
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: Slides
+  name: Proyecto
   url: https://www.dropbox.com/s/k7xp5fkv2get9ss/proyecto_docente_teorias_20_21.pdf?dl=0
+- icon: file-pdf
+  icon_pack: fas
+  name: Prueba
+  url: https://www.dropbox.com/s/jnqt268wx9obdum/pruebadelectura1.pdf?dl=0
 slides: Teorias Criminologicas.
 summary: Guia Docente 2020-2021.
 tags:
